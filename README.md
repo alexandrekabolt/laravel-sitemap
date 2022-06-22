@@ -2,7 +2,7 @@
 
 [![License](https://poser.pugx.org/laravelium/sitemap/license)](https://packagist.org/packages/laravelium/sitemap) [![PHP tests](https://github.com/Laravelium/laravel-sitemap/workflows/PHP%20tests/badge.svg?branch=master)](https://github.com//Laravelium/laravel-sitemap/actions?query=workflow%3A%22PHP+tests%22) [![Maintainability](https://api.codeclimate.com/v1/badges/c7b8c0079addb1217836/maintainability)](https://codeclimate.com/github/Laravelium/laravel-sitemap/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/c7b8c0079addb1217836/test_coverage)](https://codeclimate.com/github/Laravelium/laravel-sitemap/test_coverage) [![Style Status](https://github.styleci.io/repos/10392044/shield?style=normal&branch=master)](https://github.styleci.io/repos/10392044) [![Latest Stable Version](https://poser.pugx.org/laravelium/sitemap/v/stable)](https://packagist.org/packages/laravelium/sitemap) [![Total Downloads](https://poser.pugx.org/laravelium/sitemap/downloads)](https://packagist.org/packages/laravelium/sitemap)
 
-*Laravelium Sitemap generator for Laravel.*
+*Fork from laravelium/sitemap, Sitemap generator for Laravel 9*
 
 ## Notes
 
@@ -13,7 +13,7 @@
 Run the following command and provide the latest stable version (e.g v8.\*) :
 
 ```bash
-composer require laravelium/sitemap
+composer require francoisburdy/sitemap
 ```
 
 *or add the following to your `composer.json` file :*
