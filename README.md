@@ -13,7 +13,7 @@
 Run the following command and provide the latest stable version (e.g v8.\*) :
 
 ```bash
-composer require francoisburdy/sitemap
+composer require alexandrekabolt/sitemap
 ```
 
 *or add the following to your `composer.json` file :*
