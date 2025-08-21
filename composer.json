@@ -19,11 +19,11 @@
     },
     "require": {
         "php": ">=8.4",
-        "illuminate/support": "^11.0",
-        "illuminate/filesystem": "^11.0"
+        "illuminate/support": "^12.25",
+        "illuminate/filesystem": "^12.25"
     },
     "require-dev": {
-        "laravel/framework": "^11.0",
+        "laravel/framework": "^12.25",
         "phpunit/phpunit": "^11.5.3",
         "orchestra/testbench-core": "^9.9.2",
         "php-coveralls/php-coveralls" : "^2.7"
